@@ -25,3 +25,6 @@
 [submodule "dockerfile"]
 	path = dockerfile
 	url = git@github.com:9ssi7/dockerfile
+[submodule "mono"]
+	path = mono
+	url = git@github.com:9ssi7/mono
