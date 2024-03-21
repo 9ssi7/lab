@@ -21,5 +21,6 @@ Here's a brief overview of the currently available submodules in this repository
 * [**tguard**](./tguard/) (time guard) - Manages data with specific timeouts in Go applications, including functionalities for starting, canceling, and managing data based on their TTL (time-to-live) settings.
 * [**turnstile**](./turnstile/) - Go client library for interacting with Cloudflare's Turnstile service (currently in private beta) used for protecting web applications from abuse.
 * [**vkn**](./vkn/) - Go library for querying registered individuals or businesses in the Revenue Administration of Turkey.
+* [**mono**](./mono/) - A monorepo boilerplate for building and deploying microservices-based applications using Docker.
 
 This repository welcomes contributions! Feel free to open issues, suggest improvements, or submit pull requests to enhance these tools and libraries.
