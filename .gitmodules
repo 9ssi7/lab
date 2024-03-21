@@ -22,3 +22,6 @@
 [submodule "cillop"]
 	path = cillop
 	url = git@github.com:cilloparch/cillop
+[submodule "dockerfile"]
+	path = dockerfile
+	url = git@github.com:9ssi7/dockerfile
