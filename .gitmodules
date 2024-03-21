@@ -1,0 +1,24 @@
+[submodule "tguard"]
+	path = tguard
+	url = git@github.com:9ssi7/tguard
+[submodule "acc"]
+	path = acc
+	url = git@github.com:9ssi7/acc
+[submodule "nanoid"]
+	path = nanoid
+	url = git@github.com:9ssi7/nanoid
+[submodule "vkn"]
+	path = vkn
+	url = git@github.com:9ssi7/vkn
+[submodule "turnstile"]
+	path = turnstile
+	url = git@github.com:9ssi7/turnstile
+[submodule "slug"]
+	path = slug
+	url = git@github.com:9ssi7/slug
+[submodule "KPSPublic"]
+	path = KPSPublic
+	url = git@github.com:9ssi7/KPSPublic
+[submodule "cillop"]
+	path = cillop
+	url = git@github.com:cilloparch/cillop
