@@ -22,5 +22,6 @@ Here's a brief overview of the currently available submodules in this repository
 * [**turnstile**](./turnstile/) - Go client library for interacting with Cloudflare's Turnstile service (currently in private beta) used for protecting web applications from abuse.
 * [**vkn**](./vkn/) - Go library for querying registered individuals or businesses in the Revenue Administration of Turkey.
 * [**mono**](./mono/) - A monorepo boilerplate for building and deploying microservices-based applications using Docker.
+* [**papara**](./papara/) - A golang rest client for papara API.
 
 This repository welcomes contributions! Feel free to open issues, suggest improvements, or submit pull requests to enhance these tools and libraries.
