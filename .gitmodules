@@ -28,3 +28,6 @@
 [submodule "mono"]
 	path = mono
 	url = git@github.com:9ssi7/mono
+[submodule "papara"]
+	path = papara
+	url = git@github.com:9ssi7/papara
